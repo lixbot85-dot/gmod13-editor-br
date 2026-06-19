@@ -66,7 +66,7 @@ Com uma interface estilo VS Code, você pode criar SWEPs, entidades, importar as
 ## Como Usar
 
 ### Baixe e execute
-Baixe o arquivo `GMOD_Editor.exe` da página de releases e execute.
+Baixe o arquivo `GME.exe` da página de releases e execute.
 
 ### Configure
 - **Arquivo > Configurações**
