@@ -12,7 +12,7 @@
 
 <!-- ![Screenshot do GME](docs/screenshot.png) -->
 
-*Em breve: prints da interface.*
+[Screenshot](docs/gmescreenshoot.png}
 
 ---
 
