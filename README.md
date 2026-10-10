@@ -12,7 +12,7 @@
 
 <!-- ![Screenshot do GME](docs/screenshot.png) -->
 
-[Screenshot](docs/gmescreenshoot.png}
+[Screenshot](docs/gmescreenshoot.png)
 
 ---
 
