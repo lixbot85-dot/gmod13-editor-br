@@ -1,0 +1,70 @@
+# jumpscare
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================================
+
+config.json
+config.dat
+config.dat.v49.bak
+editor_settings.json
+ai_history.json
+
+# Pastas de uso pessoal
+plugins/
+plugins_available/
+snippets/
+
+# ==========================================
+
+build/
+dist/
+*.spec
+publicExecs/
+*.exe
+*.gma
+
+# ==========================================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+
+*.log
+*.tmp
+temp/
+tmp/
