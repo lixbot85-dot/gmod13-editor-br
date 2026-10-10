@@ -33,16 +33,6 @@ Com uma interface inspirada no **VS Code**, você pode:
 
 ---
 
-## Novidades desta versão (v5.2.1)
-
-- **Truncamento inteligente de código** — mantém topo + final, removendo o miolo
-- **Contador de tokens** na status bar (verde/amarelo/vermelho conforme o uso)
-- **Aviso proativo** antes de enviar código grande pra IA
-- **Limite de código ajustável** nas configurações
-- **IA em thread separada** — não trava mais a interface
-
----
-
 ## Funcionalidades
 
 ### Editor de Código
