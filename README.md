@@ -240,6 +240,12 @@ O editor <b>trunca automaticamente</b> o código quando ele passa do limite. Ver
 Você deve colocar em uma pasta separada, o aplicativo cria pastas onde ele estiver caso não tenha.
 </details>
 
+<details>
+<summary><b>O meu anti-vírus detectou que é malware, qoue eu faço?</b></summary>
+As versões antigas como 4.3 mexe com coisas do sistema, é falso-positivo.
+Não recomendo usar versões antigas do GME abaixo de 5.0.4
+</details>
+
 ---
 
 ## Troubleshooting
@@ -258,6 +264,11 @@ Instale o **luaparser**. `pip install luaparser`
 
 **IA não responde:**
 Verifique sua conexão e se a API Key está correta em Configurações.
+
+**Versão antiga é detectada como vírus:**
+as versões antigas mexem com coisas do sistema, porque não tinha .spec bem configurado, 
+Empacotava libs desnecessárias e Chamava subprocess mais agressivamente.
+Então é um falso-positivo (se você não baixou de sites desconhecidos)
 
 ---
 
