@@ -8,7 +8,7 @@ echo ==========================================
 set PYTHON_PATH=C:\Users\AdministradorUser\AppData\Local\Python\pythoncore-3.14-64\python.exe
 set ICON_FLAG=
 
-:: Verifica se o arquivo main.ico existe
+:: Verifica se o arquivo main.ico existe (para não dar failback nesse script que estou escrevendo)
 if exist "main.ico" (
     echo Ícone encontrado: main.ico
     set ICON_FLAG=--icon=main.ico
