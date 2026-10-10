@@ -12,9 +12,9 @@
 
 <!-- ![Screenshot do GME](docs/screenshot.png) -->
 
-<!-- ![Screenshot do GME Syntax](docs/screenshot2.png) -->
 ![Screenshot](docs/gmescreenshoot.png)
 
+![Screenshot](docs/gmescreenshoot2.png)
 ---
 
 ## O que é?
