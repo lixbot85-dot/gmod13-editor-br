@@ -12,9 +12,11 @@
 
 <!-- ![Screenshot do GME](docs/screenshot.png) -->
 
+Uso
 ![Screenshot](docs/gmescreenshoot.png)
 
-![Screenshot](docs/gmescreenshoot2.png)
+Syntax
+![Screenshot2](docs/gmescreenshoot2.png)
 ---
 
 ## O que é?
