@@ -4,7 +4,6 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/lixbot85-dot/gmod13-editor-br?style=flat-square)](https://github.com/lixbot85-dot/gmod13-editor-br/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/lixbot85-dot/gmod13-editor-br/total?style=flat-square)](https://github.com/lixbot85-dot/gmod13-editor-br/releases)
-[![GitHub license](https://img.shields.io/github/license/lixbot85-dot/gmod13-editor-br?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat-square)](https://www.python.org/)
 
 ---
