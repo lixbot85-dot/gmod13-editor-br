@@ -99,11 +99,10 @@ Todas as funções usam a **API gratuita da Groq**:
 
 Baixe a versão mais recente na página de [**Releases**](https://github.com/lixbot85-dot/gmod13-editor-br/releases/latest).
 
-| Versão | Status | Descrição |
+| Versão | Status | Descrição | Anti-Vírus |
 |--------|--------|-----------|
-| **v5.2.1** | Recomendada | Truncamento IA + contador de tokens |
-| v5.1.2 | Estável | Git, Snippets e Linter |
-| v4.9 | Antiga | Sem IA |
+| v5.1.2 | Estável | Git, Snippets e Linter | Passa |
+| v4.9 | Antiga | Sem updates ou patchets | Falso-Positivo |
 
 ### Requisitos
 
