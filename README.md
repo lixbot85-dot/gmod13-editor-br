@@ -233,9 +233,14 @@ Você deve colocar em uma pasta separada, o aplicativo cria pastas onde ele esti
 </details>
 
 <details>
-<summary><b>O meu anti-vírus detectou que é malware, qoue eu faço?</b></summary>
+<summary><b>O meu anti-vírus detectou que é malware, oque eu faço?</b></summary>
 As versões antigas como 4.3 mexe com coisas do sistema, é falso-positivo.
 Não recomendo usar versões antigas do GME abaixo de 5.0.4
+</details>
+
+<details>
+<summary><b>O meu Editor não abre em .exe</b></summary>
+Baixe a versão correta, só funciona no Windows e em x64.
 </details>
 
 ---
